@@ -1,7 +1,7 @@
 # Univ-1-2-1-Collage-App
 Make various functions necessary for college life into a program through this code (Group project during a university class)
 
-============================================================================================
+***
 
 Jeonju University, Jeonju, Jeollabuk-do, Korea (Republic of)
 Name : Yeseop Jin, Student ID : 202268029, Major : Computer Engineering
@@ -10,7 +10,7 @@ Class of 2022, 2nd semester of 1st grade / Subject : Software Basic Design
 Production period: September 14 to October 24, 2022
 The conditions prepared in this project are as follows
 
-============================================================================================
+***
 
 KO-KR
 
@@ -28,7 +28,7 @@ KO-KR
 
 - 평가요소 : 기능의 참신성과 유용성
 
-============================================================================================
+***
 
 EN-US
 
@@ -46,7 +46,7 @@ EN-US
 
 - Evaluation factors: novelty and usefulness of functions
 
-============================================================================================
+***
 
 이 조별 프로젝트에서 'JJ_lib.py', 'JJ_menu.py' 작성에 다수 참여했으며, 
 제가 조에서 담당했던 'JJ_dday.py' 모듈은 다른 사람의 도움 없이 다양한 자료를 참고하여 작성했습니다.
