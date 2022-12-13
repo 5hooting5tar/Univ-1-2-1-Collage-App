@@ -14,9 +14,9 @@ The conditions prepared in this project are as follows
 
 KO-KR
 
-학교 생활 중 활용 가능한 소프트웨어 설계
+- 학교 생활 중 활용 가능한 소프트웨어 설계
 
-학교 생활에 도움이 되는 데이터 처리 서비스에 대한 아이디어 도출과 기능 설계 및 구현(코딩)을 수행한다. 
+- 학교 생활에 도움이 되는 데이터 처리 서비스에 대한 아이디어 도출과 기능 설계 및 구현(코딩)을 수행한다. 
 
 - 유용한 데이터가 무엇인가를 생각하고 이를 처리하는 방식을 고안한다. 
 
@@ -32,9 +32,9 @@ KO-KR
 
 EN-US
 
-Designing software that can be used during school life
+- Designing software that can be used during school life
 
-It derives ideas for data processing services that help school life, and performs functional design and implementation (coding).
+- It derives ideas for data processing services that help school life, and performs functional design and implementation (coding).
 
 - Think about what useful data is and devise a way to handle it.
 
