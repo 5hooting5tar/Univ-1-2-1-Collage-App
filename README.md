@@ -3,10 +3,6 @@ Make various functions necessary for college life into a program through this co
 
 ***
 
-Jeonju University, Jeonju, Jeollabuk-do, Korea (Republic of)
-Name : Yeseop Jin, Student ID : 202268029, Major : Computer Engineering
-Class of 2022, 2nd semester of 1st grade / Subject : Software Basic Design
-
 Production period: September 14 to October 24, 2022
 The conditions prepared in this project are as follows
 
